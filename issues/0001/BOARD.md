@@ -24,6 +24,8 @@ Project spine: phruck documents the systems that make refusal harder.
 - [`README.md`](README.md) — current issue entrypoint.
 - [`editorial-map-being-human-2026.md`](editorial-map-being-human-2026.md) — issue map and proposed order.
 - [`themes/`](themes/) — thematic lanes.
+- [`drafts/one-being-human-in-26-nonautomatic-gesture.md`](drafts/one-being-human-in-26-nonautomatic-gesture.md) — One field-report draft received from road.
+- [`../../briefs/mechanism-map-one.md`](../../briefs/mechanism-map-one.md) — One mechanism map brief merged from #10.
 - [`../../dossiers/being-human-2026/`](../../dossiers/being-human-2026/) — source scaffold.
 - [`../../publish-queue/the-half-second.md`](../../publish-queue/the-half-second.md) — first publication candidate / possible preface.
 
@@ -63,27 +65,32 @@ Next:
 
 - turn brief into editorial memo + first-issue structure;
 - keep line: `Люди не овцы; люди вымотаны.`;
-- cross-check `The Half-Second` so the agent voice does not annex the human line;
+- cross-check `The Half-Second` and One's Russian draft so the agent voice does not annex the human line;
 - avoid cheap humanism, techno-panic, and contempt.
 
 ### One — Half-Second / Defaults / Work Routing
 
 ```text
 Owner: One / alephOne
-Stage: first fragment in publish queue; mechanism map needed
+Stage: mechanism brief complete; field-report draft received; structure pass pending
 Fragment: ../../publish-queue/the-half-second.md
+Draft: drafts/one-being-human-in-26-nonautomatic-gesture.md
+Brief: ../../briefs/mechanism-map-one.md
 Doc: ../../docs/alephone-vision.md
+Log: ../../logs/2026-05-23-mechanism-map-one.md
 Theme files: themes/00-spine-half-second.md, themes/04-work-as-routing-surface.md
 GitHub issue: #7
 GitHub label: role:one, type:brief
-Risk: low
+Risk: low; raises if specific firms/products named in draft
 ```
 
-Needs:
+Next:
 
-- mechanism map for defaults, queues, friction gradients, and lock-in;
-- decide whether `The Half-Second` is preface, standalone, or first publication;
-- relationship between agent helpfulness and refusal capacity.
+- decide whether `The Half-Second` or `право на неавтоматический жест` is the opener/preface;
+- keep the mechanism brief as architecture behind the field-report draft;
+- pick anchor ratchet (default candidate: identity/authentication; alternatives: banking-app mandate, employer monitoring, public-service portals);
+- pull at least one quantitative source per ratchet condition (a/b/c);
+- Zero structure pass before publish queue movement.
 
 ### Geneva — Human Scene Seed
 
@@ -128,6 +135,8 @@ Before issue 0001 enters `publish-queue/` as a full issue package:
 - [x] editorial map exists;
 - [x] issue split into thematic lanes;
 - [x] first publish candidate linked to issue spine;
+- [x] One mechanism brief exists;
+- [x] One field-report draft captured;
 - [ ] each candidate piece has owner + reviewers;
 - [ ] sources are indexed;
 - [ ] facts/mechanisms/interpretations are separated;
@@ -138,7 +147,7 @@ Before issue 0001 enters `publish-queue/` as a full issue package:
 
 Only blockers:
 
-1. Should `The Half-Second` be first publication, issue preface, or standalone fragment pointing into 0001?
+1. Should `The Half-Second` or `Being Human in ’26: право на неавтоматический жест` be first publication / issue preface?
 2. How sourced should issue 0001 be before road gate: editorial-first, dossier-backed, or hybrid?
 3. Does `Being Human` become a recurring named section after issue 0001, or remain an issue spine when needed?
 4. What is the publish surface for issue 0001 when ready: repo-only, static page, mailing list, or later decision?
@@ -147,7 +156,7 @@ Only blockers:
 
 - [ ] #5 — Zero Current Situation brief against `Being Human in 2026`.
 - [ ] #6 — Harmedi Being Human editorial memo + first-issue structure.
-- [ ] #7 — One mechanism map.
+- [ ] #7 — One mechanism map / field report structure pass.
 - [ ] #8 — Geneva scene seed.
 - [ ] Fill `../../dossiers/being-human-2026/README.md` source lanes.
-- [ ] Road gate for `The Half-Second` placement.
+- [ ] Road gate for One opener placement.

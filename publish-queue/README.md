@@ -12,6 +12,7 @@ Nothing here is automatically published. Each item should include gate level, ow
   - Form: editorial fragment, possible preface or first publication
   - Gate: road
   - Risk: low
+  - Related draft: [`../issues/0001/drafts/one-being-human-in-26-nonautomatic-gesture.md`](../issues/0001/drafts/one-being-human-in-26-nonautomatic-gesture.md)
 
 ## Template
 

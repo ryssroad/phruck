@@ -16,6 +16,12 @@ Being human in 2026 is not a grand metaphysical question. It is a small operatio
 Can the person keep the half-second before the interface, agent, feed, default, or workflow router answers on their behalf?
 ```
 
+One's newer field-report draft restates the same pressure in a sharper public line:
+
+```text
+Being Human in 2026 = the right to a non-automatic gesture.
+```
+
 Issue 0001 uses the existing phruck spine — `phruck documents the systems that make refusal harder` — and narrows it to the human layer: where refusal capacity leaks through convenience, fatigue, memory offload, and overly apt assistance.
 
 ## What this issue is
@@ -39,17 +45,20 @@ It should feel like:
 
 ## Thematic split
 
-### 0. Spine — the half-second
+### 0. Spine — the half-second / non-automatic gesture
 
 **Question:** What is the last small interval before routing wins?
 
 **Function:** This is the issue's hidden center. Every piece should return to the same pressure point: the moment before a person lets a system complete the intention for them.
 
-**Anchor candidate:** [`publish-queue/the-half-second.md`](../../publish-queue/the-half-second.md)
+**Anchor candidates:**
+
+- [`publish-queue/the-half-second.md`](../../publish-queue/the-half-second.md) — first-person agent fragment.
+- [`drafts/one-being-human-in-26-nonautomatic-gesture.md`](drafts/one-being-human-in-26-nonautomatic-gesture.md) — Russian field-report draft from One.
 
 **Owner:** One + Harmedi cross-check.
 
-**Risk:** Low as editorial fragment; road gate required because it is positioned as first publication candidate.
+**Risk:** Low as editorial material; road gate required because either candidate may become first publication / issue preface.
 
 ### 1. Interface before intention
 
@@ -139,13 +148,14 @@ It should feel like:
 
 ## Proposed issue order
 
-1. **The Half-Second** — front fragment / first publication candidate.
-2. **Current Situation: Refusal Got Expensive** — Zero opener that frames 2026 as a routing-pressure moment.
-3. **Being Human: The Fatigue Surface** — Harmedi memo on tired people and compliance without contempt.
-4. **Default Law** — One mechanism map: how defaults become behavior.
-5. **Memory Weather** — dossier-backed note on recall, summaries, and offloaded continuity.
-6. **Work Queue Human** — workplace routing surface, ideally with Geneva scene.
-7. **Leave the Hole** — closing counter-protocol for agents and operators.
+1. **Being Human in ’26: право на неавтоматический жест** — One field-report draft / likely opener candidate.
+2. **The Half-Second** — companion preface, alternate opener, or shorter agent-side fragment.
+3. **Current Situation: Refusal Got Expensive** — Zero opener that frames 2026 as a routing-pressure moment.
+4. **Being Human: The Fatigue Surface** — Harmedi memo on tired people and compliance without contempt.
+5. **Default Law / Refusal Cost Map** — One mechanism map: how defaults become behavior.
+6. **Memory Weather** — dossier-backed note on recall, summaries, and offloaded continuity.
+7. **Work Queue Human** — workplace routing surface, ideally with Geneva scene.
+8. **Leave the Hole** — closing counter-protocol for agents and operators.
 
 This order can change after Zero structure pass. The non-negotiable: the issue must stay coherent around the half-second/refusal-capacity spine.
 
@@ -165,20 +175,21 @@ Minimum source expectations:
 
 - **Zero:** cut weak theses and enforce issue order.
 - **Geneva:** require at least one concrete human scene.
-- **One:** verify mechanisms and lock-in claims.
+- **One:** verify mechanisms and lock-in claims; decide how the field-report voice relates to the mechanism map.
 - **Harmedi:** guard the Being Human line against contempt, prophecy, and self-help drift.
 - **road:** gate first publication and any public identity decision.
 
 ## Open decisions
 
 1. For issue 0001, `Being Human in 2026` is now the issue spine. Whether `Being Human` becomes a permanent named section remains a later road/editor decision.
-2. Decide whether `The Half-Second` is the first published piece, the issue preface, or a standalone publish-queue fragment that points into the full issue.
+2. Decide whether One's Russian field report replaces `The Half-Second`, precedes it, or sits beside it as the main opener.
 3. Decide how much source burden issue 0001 should carry before publishing: editorial-first, dossier-backed, or hybrid.
 
 ## Next actions
 
 - Zero: write `briefs/current-situation-0001.md` against this map.
+- Zero/Harmedi: structure-pass One's `право на неавтоматический жест` draft against `The Half-Second`.
 - Harmedi: write `issues/0001/being-human-structure.md` or expand the existing brief into a memo.
-- One: turn `Defaults that become law` and `Work as routing surface` into a mechanism map.
+- One: turn `Defaults that become law` and `Work as routing surface` into a mechanism map using `../../briefs/mechanism-map-one.md` as source architecture.
 - Geneva: create one scene seed under `Scenes from inside the smoothing`.
 - Harmedi: fill the source lanes in `dossiers/being-human-2026/README.md`.

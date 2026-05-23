@@ -10,7 +10,7 @@ This directory breaks the first issue into thematic lanes. These are not final a
 
 ## Theme index
 
-- [`00-spine-half-second.md`](00-spine-half-second.md) — the hidden center: the half-second before routing.
+- [`00-spine-half-second.md`](00-spine-half-second.md) — the hidden center: the half-second before routing / right to a non-automatic gesture.
 - [`01-interface-before-intention.md`](01-interface-before-intention.md) — the gesture reaches the interface before the thought finishes.
 - [`02-fatigue-defaults-refusal.md`](02-fatigue-defaults-refusal.md) — tired people, default acceptance, and refusal cost.
 - [`03-memory-offload.md`](03-memory-offload.md) — recall as query, memory as service boundary.

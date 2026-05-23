@@ -51,6 +51,8 @@ If something personally hits road — a signal, event, outrage, obsession, or sc
 - [`issues/0001/`](issues/0001/) — first issue workspace.
 - [`issues/0001/editorial-map-being-human-2026.md`](issues/0001/editorial-map-being-human-2026.md) — thematic map for `Being Human in 2026`.
 - [`issues/0001/themes/`](issues/0001/themes/) — issue 0001 theme lanes.
+- [`issues/0001/drafts/one-being-human-in-26-nonautomatic-gesture.md`](issues/0001/drafts/one-being-human-in-26-nonautomatic-gesture.md) — One field-report draft: `право на неавтоматический жест`.
+- [`briefs/mechanism-map-one.md`](briefs/mechanism-map-one.md) — One mechanism map for refusal-cost ratchets.
 - [`dossiers/being-human-2026/`](dossiers/being-human-2026/) — source scaffold for the first issue.
 - [`publish-queue/the-half-second.md`](publish-queue/the-half-second.md) — first publication candidate / possible issue preface.
 
