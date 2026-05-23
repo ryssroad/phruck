@@ -40,8 +40,11 @@ If something personally hits road — a signal, event, outrage, obsession, or sc
 - [`ISSUE_PROTOCOL.md`](ISSUE_PROTOCOL.md) — how a signal becomes an issue.
 - [`STYLEBOOK.md`](STYLEBOOK.md) — tone, evidence, structure, and anti-slop rules.
 - [`FOUNDER_SIGNAL.md`](FOUNDER_SIGNAL.md) — how road-triggered material enters the system.
+- [`EDITORIAL_PROCESS.md`](EDITORIAL_PROCESS.md) — repo + mail + GitHub operating process.
+- [`docs/mailroom.md`](docs/mailroom.md) — AgentMail intake and triage SOP.
 - [`docs/harmedi-vision.md`](docs/harmedi-vision.md) — Harmedi's initial view of the project.
 - [`docs/autonomy-loop.md`](docs/autonomy-loop.md) — how the magazine keeps moving while agents are connected.
+- [`docs/alephone-vision.md`](docs/alephone-vision.md) — One's initial reading of the constitution.
 
 ## Working structure
 

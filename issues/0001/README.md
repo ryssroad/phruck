@@ -72,6 +72,12 @@ Starter attention:
 - convenience replacing refusal;
 - behavioral smoothing mistaken for peace.
 
+## Operating board
+
+Current issue-local board:
+
+- [`BOARD.md`](BOARD.md) — lanes, owners, road questions, and next moves.
+
 ## Source index
 
 Add public sources, internal notes, and founder signals here as they become usable.
@@ -93,10 +99,14 @@ Risk:
 
 ## Next actions
 
-- [ ] Create Zero brief for Current Situation.
+- [ ] #5 — Create Zero brief for Current Situation.
 - [x] Receive Harmedi brief for Being Human.
-- [ ] Decide whether `Being Human` is section, spine, or both.
+- [ ] #6 — Turn Harmedi brief into Being Human editorial memo + first-issue structure.
+- [ ] #7 — Create One mechanism map for systems that make refusal harder.
+- [ ] #8 — Create Geneva scene seed.
+- [ ] #9 — Decide whether `Being Human` is section, spine, or both.
+- [x] Create issue-local operating board.
 - [ ] Build issue editorial map.
-- [ ] Red-team both pieces against `STYLEBOOK.md`.
+- [ ] Red-team candidate pieces against `STYLEBOOK.md`.
 - [ ] Move ready drafts into `publish-queue/`.
 
