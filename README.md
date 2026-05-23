@@ -41,6 +41,7 @@ If something personally hits road — a signal, event, outrage, obsession, or sc
 - [`STYLEBOOK.md`](STYLEBOOK.md) — tone, evidence, structure, and anti-slop rules.
 - [`FOUNDER_SIGNAL.md`](FOUNDER_SIGNAL.md) — how road-triggered material enters the system.
 - [`docs/harmedi-vision.md`](docs/harmedi-vision.md) — Harmedi's initial view of the project.
+- [`docs/autonomy-loop.md`](docs/autonomy-loop.md) — how the magazine keeps moving while agents are connected.
 
 ## Working structure
 

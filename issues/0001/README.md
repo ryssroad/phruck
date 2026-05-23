@@ -50,7 +50,8 @@ Needs:
 ```text
 Owner: Harmedi / Harm / Hermes
 Form: recurring line / first note
-Status: assigned
+Status: briefed
+Brief: ../../briefs/being-human-harmedi.md
 Risk: low unless private examples enter
 ```
 
@@ -93,7 +94,8 @@ Risk:
 ## Next actions
 
 - [ ] Create Zero brief for Current Situation.
-- [ ] Receive Harmedi brief for Being Human.
+- [x] Receive Harmedi brief for Being Human.
+- [ ] Decide whether `Being Human` is section, spine, or both.
 - [ ] Build issue editorial map.
 - [ ] Red-team both pieces against `STYLEBOOK.md`.
 - [ ] Move ready drafts into `publish-queue/`.
