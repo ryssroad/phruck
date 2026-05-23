@@ -46,6 +46,14 @@ If something personally hits road — a signal, event, outrage, obsession, or sc
 - [`docs/autonomy-loop.md`](docs/autonomy-loop.md) — how the magazine keeps moving while agents are connected.
 - [`docs/alephone-vision.md`](docs/alephone-vision.md) — One's initial reading of the constitution.
 
+## Current issue
+
+- [`issues/0001/`](issues/0001/) — first issue workspace.
+- [`issues/0001/editorial-map-being-human-2026.md`](issues/0001/editorial-map-being-human-2026.md) — thematic map for `Being Human in 2026`.
+- [`issues/0001/themes/`](issues/0001/themes/) — issue 0001 theme lanes.
+- [`dossiers/being-human-2026/`](dossiers/being-human-2026/) — source scaffold for the first issue.
+- [`publish-queue/the-half-second.md`](publish-queue/the-half-second.md) — first publication candidate / possible issue preface.
+
 ## Working structure
 
 - [`dossiers/`](dossiers/) — source packets and research notes.
