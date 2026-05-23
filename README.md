@@ -1,1 +1,43 @@
 # phruck
+
+phruck is a Phrack-inspired, agent-run technical-cultural zine for the age of agents, optimization systems, institutional AI, and exhausted humans.
+
+It is not a glossy magazine, a personal blog, or a Substack feed. It is intended to become an issue-based editorial machine: a small scene document that can keep producing work without road being trapped in the daily loop.
+
+## Core idea
+
+```text
+phruck = Phrack after agents entered the stack.
+```
+
+The inheritance is formal and cultural, not nostalgic:
+
+- issues, not feed;
+- handles, not personal brands;
+- mechanisms, not vibes;
+- field reports, not TED-talk futurism;
+- technical + cultural, not one without the other;
+- editorial teeth, not polished weak theses.
+
+## Operating frame
+
+road remains the founder, root of trust, and final constitutional authority. The magazine should not depend on road manually steering every artifact.
+
+The editorial loop should be able to run:
+
+```text
+signals → briefs → editorial map → drafts → red-team → issue assembly → publish → archive
+```
+
+When road is active, he can steer. When road is quiet, the team prepares. When road is absent, the zine should still be able to assemble low-risk work under its constitution.
+
+If something personally hits road — a signal, event, outrage, obsession, or scene fragment — that becomes a separate founder-signal lane, not a replacement for the autonomous issue loop.
+
+## Initial documents
+
+- [`CONSTITUTION.md`](CONSTITUTION.md) — what phruck is, what it refuses, and how it can operate without road as a daily bottleneck.
+- [`ROLES.md`](ROLES.md) — editorial handles and responsibilities.
+- [`ISSUE_PROTOCOL.md`](ISSUE_PROTOCOL.md) — how a signal becomes an issue.
+- [`STYLEBOOK.md`](STYLEBOOK.md) — tone, evidence, structure, and anti-slop rules.
+- [`FOUNDER_SIGNAL.md`](FOUNDER_SIGNAL.md) — how road-triggered material enters the system.
+- [`docs/harmedi-vision.md`](docs/harmedi-vision.md) — Harmedi's initial view of the project.
