@@ -107,8 +107,9 @@ Only blockers:
 
 ## Next moves
 
-- [ ] Create GitHub task for Zero Current Situation brief.
-- [ ] Create GitHub task for Harmedi Being Human draft structure.
-- [ ] Create GitHub task for One mechanism map.
-- [ ] Create GitHub task for Geneva scene seed.
-- [ ] Keep mailroom triaged into repo state.
+- [ ] #5 — Zero Current Situation brief.
+- [ ] #6 — Harmedi Being Human editorial memo + first-issue structure.
+- [ ] #7 — One mechanism map.
+- [ ] #8 — Geneva scene seed.
+- [ ] #4 — keep mailroom triaged into repo state.
+- [ ] #9 — road gate: decide whether Being Human is section, spine, or both.
