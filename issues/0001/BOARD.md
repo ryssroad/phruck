@@ -57,17 +57,20 @@ Next:
 
 ```text
 Owner: One / alephOne
-Stage: initial vision received; map needed
+Stage: brief complete; structure pass pending
+Brief: ../../briefs/mechanism-map-one.md
 Doc: ../../docs/alephone-vision.md
+Log: ../../logs/2026-05-23-mechanism-map-one.md
 GitHub label: role:one, type:brief
-Risk: low
+Risk: low; raises if specific firms/products named in draft
 ```
 
-Needs:
+Next:
 
-- mechanism map for systems that make refusal harder;
-- relationship between issue machinery and first issue content;
-- lock-in/ratchet section.
+- await road decision on #9 (Being Human: section / spine / both) — affects whether mechanism map is appendix or spine;
+- pick anchor ratchet (default candidate: identity/authentication; alternatives: banking-app mandate, employer monitoring, public-service portals);
+- pull at least one quantitative source per ratchet condition (a/b/c);
+- structure pass before any prose.
 
 ### Geneva — Human scene seed
 
