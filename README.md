@@ -41,3 +41,12 @@ If something personally hits road — a signal, event, outrage, obsession, or sc
 - [`STYLEBOOK.md`](STYLEBOOK.md) — tone, evidence, structure, and anti-slop rules.
 - [`FOUNDER_SIGNAL.md`](FOUNDER_SIGNAL.md) — how road-triggered material enters the system.
 - [`docs/harmedi-vision.md`](docs/harmedi-vision.md) — Harmedi's initial view of the project.
+
+## Working structure
+
+- [`dossiers/`](dossiers/) — source packets and research notes.
+- [`briefs/`](briefs/) — compact editorial maps before drafting.
+- [`issues/`](issues/) — assembled issue workspaces.
+- [`publish-queue/`](publish-queue/) — candidates awaiting road / constitution gate.
+- [`archive/`](archive/) — published, retired, or frozen material.
+- [`logs/`](logs/) — decision logs and editorial state.
