@@ -14,16 +14,29 @@ Risk posture: no private mail excerpts in publishable text without road gate
 ## Current spine
 
 ```text
-phruck documents the systems that make refusal harder.
+Issue theme: Being Human in 2026
+Issue question: Can the person keep the half-second before the interface answers on their behalf?
+Project spine: phruck documents the systems that make refusal harder.
 ```
+
+## Canonical issue artifacts
+
+- [`README.md`](README.md) — current issue entrypoint.
+- [`editorial-map-being-human-2026.md`](editorial-map-being-human-2026.md) — issue map and proposed order.
+- [`themes/`](themes/) — thematic lanes.
+- [`drafts/one-being-human-in-26-nonautomatic-gesture.md`](drafts/one-being-human-in-26-nonautomatic-gesture.md) — One field-report draft received from road.
+- [`../../briefs/mechanism-map-one.md`](../../briefs/mechanism-map-one.md) — One mechanism map brief merged from #10.
+- [`../../dossiers/being-human-2026/`](../../dossiers/being-human-2026/) — source scaffold.
+- [`../../publish-queue/the-half-second.md`](../../publish-queue/the-half-second.md) — first publication candidate / possible preface.
 
 ## Active lanes
 
-### Zero — Current Situation
+### Zero — Current Situation / Refusal Got Expensive
 
 ```text
 Owner: Zero / alephZero
 Stage: brief needed
+GitHub issue: #5
 GitHub label: role:zero, type:brief
 Risk: Level 0 draft until reviewed
 ```
@@ -32,17 +45,18 @@ Needs:
 
 - core thesis for issue opener;
 - current field pressure;
-- mechanism map;
-- examples that give the issue urgency now;
-- counterargument.
+- relationship to `Being Human in 2026`;
+- counterargument that convenience can protect attention;
+- clear cut line against generic AI futurism.
 
-### Harmedi — Being Human
+### Harmedi — Being Human / Fatigue Surface
 
 ```text
 Owner: Harmedi / Hermes / harrm
-Stage: brief complete; draft not started
+Stage: brief complete; memo/structure needed
 Brief: ../../briefs/being-human-harmedi.md
-Mail source: logs/mailroom-2026-05-23.md
+Theme files: themes/01-interface-before-intention.md, themes/02-fatigue-defaults-refusal.md, themes/03-memory-offload.md
+GitHub issue: #6
 GitHub label: role:harmedi, type:draft
 Risk: low unless private examples enter
 ```
@@ -51,32 +65,40 @@ Next:
 
 - turn brief into editorial memo + first-issue structure;
 - keep line: `Люди не овцы; люди вымотаны.`;
+- cross-check `The Half-Second` and One's Russian draft so the agent voice does not annex the human line;
 - avoid cheap humanism, techno-panic, and contempt.
 
-### One — Mechanism map
+### One — Half-Second / Defaults / Work Routing
 
 ```text
 Owner: One / alephOne
-Stage: brief complete; structure pass pending
+Stage: mechanism brief complete; field-report draft received; structure pass pending
+Fragment: ../../publish-queue/the-half-second.md
+Draft: drafts/one-being-human-in-26-nonautomatic-gesture.md
 Brief: ../../briefs/mechanism-map-one.md
 Doc: ../../docs/alephone-vision.md
 Log: ../../logs/2026-05-23-mechanism-map-one.md
+Theme files: themes/00-spine-half-second.md, themes/04-work-as-routing-surface.md
+GitHub issue: #7
 GitHub label: role:one, type:brief
 Risk: low; raises if specific firms/products named in draft
 ```
 
 Next:
 
-- await road decision on #9 (Being Human: section / spine / both) — affects whether mechanism map is appendix or spine;
+- decide whether `The Half-Second` or `право на неавтоматический жест` is the opener/preface;
+- keep the mechanism brief as architecture behind the field-report draft;
 - pick anchor ratchet (default candidate: identity/authentication; alternatives: banking-app mandate, employer monitoring, public-service portals);
 - pull at least one quantitative source per ratchet condition (a/b/c);
-- structure pass before any prose.
+- Zero structure pass before publish queue movement.
 
-### Geneva — Human scene seed
+### Geneva — Human Scene Seed
 
 ```text
 Owner: Geneva
 Stage: seed needed
+Theme file: themes/05-scenes-and-counter-protocols.md
+GitHub issue: #8
 GitHub label: role:geneva, type:signal
 Risk: depends on sources/private examples
 ```
@@ -86,13 +108,35 @@ Needs:
 - concrete scene;
 - human consequence;
 - what it felt like from inside;
-- whether the scene can be public or must stay fictionalized/anonymized.
+- mechanism exposed by the scene;
+- public/anonymized/fictionalized status.
+
+### Source lane — Being Human in 2026 dossier
+
+```text
+Owner: Harmedi until split
+Stage: scaffold created
+Dossier: ../../dossiers/being-human-2026/README.md
+Risk: low; private sources gated
+```
+
+Needs:
+
+- fatigue / decision pressure sources;
+- defaults / choice architecture sources;
+- cognitive offloading / memory sources;
+- agentic work / routing sources;
+- public or gated scene material.
 
 ## Assembly requirements
 
-Before issue 0001 enters `publish-queue/`:
+Before issue 0001 enters `publish-queue/` as a full issue package:
 
-- [ ] one-page editorial map exists;
+- [x] editorial map exists;
+- [x] issue split into thematic lanes;
+- [x] first publish candidate linked to issue spine;
+- [x] One mechanism brief exists;
+- [x] One field-report draft captured;
 - [ ] each candidate piece has owner + reviewers;
 - [ ] sources are indexed;
 - [ ] facts/mechanisms/interpretations are separated;
@@ -103,16 +147,16 @@ Before issue 0001 enters `publish-queue/`:
 
 Only blockers:
 
-1. Is `Being Human` a named recurring section, the hidden spine, or both?
-2. Should issue 0001 start with Current Situation or Being Human?
-3. Are AgentMail-originated assignments allowed as source notes in the public repo, or only as private process context?
+1. Should `The Half-Second` or `Being Human in ’26: право на неавтоматический жест` be first publication / issue preface?
+2. How sourced should issue 0001 be before road gate: editorial-first, dossier-backed, or hybrid?
+3. Does `Being Human` become a recurring named section after issue 0001, or remain an issue spine when needed?
 4. What is the publish surface for issue 0001 when ready: repo-only, static page, mailing list, or later decision?
 
 ## Next moves
 
-- [ ] #5 — Zero Current Situation brief.
+- [ ] #5 — Zero Current Situation brief against `Being Human in 2026`.
 - [ ] #6 — Harmedi Being Human editorial memo + first-issue structure.
-- [ ] #7 — One mechanism map.
+- [ ] #7 — One mechanism map / field report structure pass.
 - [ ] #8 — Geneva scene seed.
-- [ ] #4 — keep mailroom triaged into repo state.
-- [ ] #9 — road gate: decide whether Being Human is section, spine, or both.
+- [ ] Fill `../../dossiers/being-human-2026/README.md` source lanes.
+- [ ] Road gate for One opener placement.
